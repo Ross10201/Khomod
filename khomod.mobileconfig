@@ -49,11 +49,6 @@
 					<string>certs.apple.com</string>
 					<string>appattest.apple.com</string>
 					<string>vpp.itunes.apple.com</string>
-					<string>guzzoni-apple-com.v.aaplimg.com</string>
-					<string>gdmf.apple.com</string>
-					<string>axm-app.apple.com</string>
-					<string>comm-cohort.ess.apple.com</string>
-					<string>comm-main.ess.apple.com</string>
 				</array>
 			</dict>
 			<key>OnDemandRules</key>
