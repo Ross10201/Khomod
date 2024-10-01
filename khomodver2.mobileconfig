@@ -39,7 +39,7 @@
 					<string>certs.apple.com</string>
 					<string>appattest.apple.com</string>
 					<string>vpp.itunes.apple.com</string>
-				<array>
+				</array>
 			</dict>
 			<key>OnDemandRules</key>
 			<array>
